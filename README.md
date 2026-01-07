@@ -1,7 +1,7 @@
 # Hide-Seek
-# 🕵️ Hide & Seek – AI-based Pathfinding Game
+# Hide & Seek – AI-based Pathfinding Game
 
-## 📌 Introduction
+## Introduction
 
 **Hide & Seek** is an artificial intelligence simulation game where characters participate in a hide-and-seek scenario using intelligent pathfinding algorithms.
 
@@ -9,16 +9,16 @@ The project is developed in **Python** and utilizes search algorithms such as **
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 🏃 **Intelligent AI**: Uses the A* algorithm for pathfinding and optimized movement.
-- 🎮 **Interactive Simulation**: Characters can automatically move within the game map.
-- 🖼 **Visual Support**: Includes maps and illustrative images for the game environment.
-- ⚡ **Simple & User-Friendly Interface**
+- **Intelligent AI**: Uses the A* algorithm for pathfinding and optimized movement.
+- **Interactive Simulation**: Characters can automatically move within the game map.
+- **Visual Support**: Includes maps and illustrative images for the game environment.
+- **Simple & User-Friendly Interface**
 
 ---
 
-## 🛠 Installation
+## Installation
 
 ### Requirements
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Clone the repository:
 ```bash
